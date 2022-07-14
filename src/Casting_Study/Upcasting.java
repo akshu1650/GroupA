@@ -22,7 +22,7 @@ public class Upcasting {
 		f1.car();
 		f1.bike();
 		//f1. education();		
-		
+		System.out.println("Hi I am Akshay");
 
 	}
 
